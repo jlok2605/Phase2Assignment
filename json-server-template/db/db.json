@@ -1,0 +1,84 @@
+{
+  "Players": [
+    {
+      "rank": 1,
+      "name": "Viktor Axelsen",
+      "image": "https://www.google.com/search?q=viktor+axelsen+photo&tbm=isch&ved=2ahUKEwj5sq_04K3_AhXHHLcAHcRMCwMQ2-cCegQIABAA&oq=viktor+axelsen+photo&gs_lcp=CgNpbWcQAzIHCAAQGBCABDoECCMQJzoHCAAQigUQQzoFCAAQgARQ0gpY9hBgshJoAHAAeACAAb0BiAHeCZIBAzAuN5gBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=T69-ZLnPMse53LUPxJmtGA&bih=899&biw=1897&rlz=1C1CHBD_en-GBAU858AU858#imgrc=Z4ddUq4CukQvkM",
+      "points": 103005,
+      "tournaments": 12,
+      "record": "489W 146L"
+    },
+    {
+      "rank": 2,
+      "name": "Anthony Ginting",
+      "image": "https://www.google.com/search?q=anthony+ginting&tbm=isch&ved=2ahUKEwi7ktbR4a3_AhX-2KACHUlKBx4Q2-cCegQIABAA&oq=anthony+ginting&gs_lcp=CgNpbWcQAzIFCAAQgAQyBQgAEIAEMgYIABAFEB4yBggAEAUQHjIGCAAQCBAeMgQIABAeMgYIABAFEB4yBggAEAUQHjIGCAAQBRAeMgYIABAFEB46BAgjECc6BwgAEIoFEEM6CAgAEIAEELEDOgQIABADOgsIABCABBCxAxCDAToICAAQsQMQgwE6CggAEIoFELEDEENQ3wRY0x5g3x9oAHAAeACAAbsCiAHZGpIBCDAuMi4xMi4xmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=E7B-ZPu8Hv6xg8UPyZSd8AE&bih=899&biw=1897&rlz=1C1CHBD_en-GBAU858AU858#imgrc=faJTLqelWkrSYM",
+      "points": 81811,
+      "tournaments": 16,
+      "record": "253W 142L"
+    },
+    {
+      "rank": 3,
+      "name": "Kodai Naraoka",
+      "image": "https://www.google.com/search?q=kodai+naraoka&tbm=isch&rlz=1C1CHBD_en-GBAU858AU858&hl=en&sa=X&ved=2ahUKEwiLiIDM4q3_AhU8jtgFHbGGBQYQBXoECAEQQA&biw=1878&bih=881#imgrc=n7sU-MFE9r69uM",
+      "points": 74165,
+      "tournaments": 19,
+      "record": "163W 67L"
+    },
+    {
+      "rank": 4,
+      "name": "Kean Yew Loh",
+      "image": "https://www.google.com/search?q=Kean+Yew+Loh&tbm=isch&ved=2ahUKEwiCiqLN4q3_AhUK0qACHbhICfEQ2-cCegQIABAA&oq=Kean+Yew+Loh&gs_lcp=CgNpbWcQAzIGCAAQCBAeMgYIABAIEB4yBggAEAgQHjIHCAAQGBCABDoECCMQJ1CKBViKBWCzCmgAcAB4AIAByAGIAf8CkgEFMC4xLjGYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=FrF-ZIKnKoqkg8UPuJGliA8&bih=881&biw=1878&rlz=1C1CHBD_en-GBAU858AU858&hl=en#imgrc=5_hCca5T_V_3hM",
+      "points": 71682,
+      "tournaments": 19,
+      "record": "193W 102L"
+    },
+    {
+      "rank": 5,
+      "name": "Kunlavut Vitidsarn",
+      "image": "https://www.google.com/search?q=Vitidsarn+Kunlavut&rlz=1C1CHBD_en-GBAU858AU858&sxsrf=APwXEdcDHSQE7ICm15JeSUZyI893V1UGsA:1686024544039&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiWr57w4q3_AhUAsVYBHVhlD7AQ_AUoAnoECAEQBA&biw=1897&bih=899&dpr=1.35#imgrc=cX5ieUDpkBrC9M",
+      "points": 69548,
+      "tournaments": 14,
+      "record": "334W 114L"
+    },
+    {
+      "rank": 6,
+      "name": "Jonatan Christie",
+      "image": "https://www.google.com/search?q=jonatan+christie&tbm=isch&ved=2ahUKEwi3gpbx4q3_AhWhidgFHc33BhwQ2-cCegQIABAA&oq=jonatan+christie&gs_lcp=CgNpbWcQAzIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgQIABAeMgQIABAeOgQIIxAnOgYIABAIEB46BwgAEBgQgAQ6CAgAEIAEELEDOgsIABCABBCxAxCDAToECAAQA1CFEFjFKWDIK2gBcAB4AIABoQKIAdUfkgEGMC4xLjE3mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=YbF-ZPfNPKGT4t4Pze-b4AE&bih=899&biw=1897&rlz=1C1CHBD_en-GBAU858AU858#imgrc=bb3p8eCOFUVwhM",
+      "points": 69121,
+      "tournaments": 15,
+      "record": "275W 138L"
+    },
+    {
+      "rank": 7,
+      "name": "Tien Chen Chou",
+      "image": "https://www.google.com/search?q=tien+chen+chou&tbm=isch&ved=2ahUKEwiZo6eF463_AhWgK7cAHYwZBEkQ2-cCegQIABAA&oq=tien+chen+chou&gs_lcp=CgNpbWcQAzIGCAAQCBAeMgYIABAIEB4yBggAEAgQHjIGCAAQCBAeMgYIABAIEB4yBggAEAgQHjIGCAAQCBAeMgYIABAIEB4yBggAEAgQHjIGCAAQCBAeOgQIIxAnUOQGWOQGYMIIaABwAHgAgAHrAYgBwAOSAQMyLTKYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=jLF-ZJmtDaDX3LUPjLOQyAQ&bih=899&biw=1897&rlz=1C1CHBD_en-GBAU858AU858#imgrc=nY9GiUzu2btPUM",
+      "points": 69027,
+      "tournaments": 19,
+      "record": "466W 255L"
+    },
+    {
+      "rank": 8,
+      "name": "H.S. Prannoy",
+      "image": "https://www.google.com/search?q=hs+prannoy&rlz=1C1CHBD_en-GBAU858AU858&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj3rMjL463_AhVgtVYBHb9nAQUQ_AUoAnoECAEQBA&biw=1897&bih=899&dpr=1.35#imgrc=5HPwIHKUpvLBNM",
+      "points": 69009,
+      "tournaments": 17,
+      "record": "252W 169L"
+    },
+    {
+      "rank": 9,
+      "name": "Yu Qi Shi",
+      "image": "https://www.google.com/search?q=shi+yu+qi&tbm=isch&ved=2ahUKEwiLwq7M463_AhUF9XMBHWaKAf0Q2-cCegQIABAA&oq=shi+yu+qi&gs_lcp=CgNpbWcQAzIFCAAQgAQyBggAEAgQHjIHCAAQGBCABDIHCAAQGBCABDIHCAAQGBCABDIHCAAQGBCABDIHCAAQGBCABDIJCAAQGBCABBAKMgcIABAYEIAEMgcIABAYEIAEOgcIABCKBRBDOggIABCABBCxAzoECAAQHjoGCAAQBRAeUIsHWJEaYJQdaABwAHgAgAGrAogB1g2SAQUwLjkuMZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=IbJ-ZMutDoXqz7sP5pSG6A8&bih=899&biw=1897&rlz=1C1CHBD_en-GBAU858AU858#imgrc=03_theYSkahIQM",
+      "points":68824,
+      "tournaments": 15,
+      "record": "245W 90L"
+    },
+    {
+      "rank": 10,
+      "name": "Zii Jia Lee",
+      "image": "https://www.google.com/search?q=lee+zii+jia&tbm=isch&ved=2ahUKEwiFnZfU463_AhVC3nMBHWcMBOoQ2-cCegQIABAA&oq=lee+zii+jia&gs_lcp=CgNpbWcQAzIHCAAQigUQQzIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDoGCAAQCBAeOgcIABAYEIAEOgkIABAYEIAEEAo6CAgAEIAEELEDOggIABCxAxCDAVCEBljaEGDmEWgAcAB4AIAB2AGIAcYPkgEFMC44LjOYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=MbJ-ZMXAJsK8z7sP55iQ0A4&bih=899&biw=1897&rlz=1C1CHBD_en-GBAU858AU858#imgrc=lBojg1bAN1HXCM",
+      "points": 59876,
+      "tournaments": 17,
+      "record": "237W 107L"
+    }
+  ]
+}
