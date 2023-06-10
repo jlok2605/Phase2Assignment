@@ -15,29 +15,19 @@ const linkStyles = {
 function NavBar (){
     return (
 
-        <div>
-            <React.Fragment>
-            <NavLink 
-            to = "/"
-            exact
-            style = {linkStyles}
-            activeStyle = {{ background:"darkblue"}}>
-            Home
-            </NavLink>
+        <nav Classname = "nav">
+            <a href = '/' class = "site-title">Badminton</a>
+            <ul>
+                <li>
+                    <a href = "/Players">Players</a>
+                <li>
+                    <a href = "/about">About</a>
+                </li>
 
-            <NavLink 
-            to = "/About"
-            style = {linkStyles}
-            activeStyle = {{ background:"darkblue"}}>
-                About
-            </NavLink>
-            <NavLink to = "/Players"
-            style = {linkStyles}
-            activeStyle = {{ background:"darkblue"}}>
-                Players
-            </NavLink>
-            </React.Fragment>   
-         </div>)
+                </li>
+            </ul>
+          
+         </nav>)
 }
 
 export default NavBar

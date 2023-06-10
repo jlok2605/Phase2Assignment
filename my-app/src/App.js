@@ -9,7 +9,10 @@ import Home from "./home";
 
 function App() {
   return (
+    
     <div>
+       <NavBar/>
+    
       <BrowserRouter>
         <Routes>
           <Route path="/About" element = {<About/>}/>
@@ -21,6 +24,7 @@ function App() {
 
         </Routes>
       </BrowserRouter>
+    
     </div>
 
   )
