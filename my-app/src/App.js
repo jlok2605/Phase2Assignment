@@ -5,26 +5,29 @@ import NavBar from "./NavBar";
 import Players from "./Players"
 import About from "./About"
 import Home from "./home";
+import "./NavBar.css"
 
 
 function App() {
   return (
-    
     <div>
-       <NavBar/>
-    
-      <BrowserRouter>
-        <Routes>
-          <Route path="/About" element = {<About/>}/>
+      <NavBar />
+      <div>
 
-          <Route path="/Players" element = {<Players/>}/> 
-          
 
-          <Route exact path="/" element = {<Home/>}/>
+        <BrowserRouter>
+          <Routes>
+            <Route path="/About" element={<About />} />
 
-        </Routes>
-      </BrowserRouter>
-    
+            <Route path="/Players" element={<Players />} />
+
+
+            <Route exact path="/" element={<Home />} />
+
+          </Routes>
+        </BrowserRouter>
+
+      </div>
     </div>
 
   )
