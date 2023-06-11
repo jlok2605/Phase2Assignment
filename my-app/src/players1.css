@@ -1,0 +1,44 @@
+.top5 {
+    float:left;
+    display: flex;
+}
+.lower5 {
+    float: left;
+    display: flex;
+}
+.text {
+    padding: 0;
+    border: 0;
+    margin: 0;
+}
+
+img {
+    height: 20rem; ;
+    width: 21rem;
+    display: flex;
+    border-radius: 1%;
+    border: 0;
+    padding: 0;
+
+}
+img:hover {
+    transform: scale(1.2);
+    
+}
+
+
+.pic .text {
+    position:static;
+    text-align: center;
+    visibility: hidden;
+    vertical-align:top;
+}
+
+.pic:hover .text {
+    visibility: visible;
+}
+
+.pic:hover .image {
+    opacity: 0.3;
+  }
+  

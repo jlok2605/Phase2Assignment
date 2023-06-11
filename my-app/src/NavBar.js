@@ -1,43 +1,24 @@
-import React from "react"
-import {NavLink} from "react-router-dom"
+import React from "react" ; 
+import "./NavBar.css"
 
 
-const linkStyles = {
-    display: "inline-block",
-    width: "50px",
-    padding: "12px",
-    margin: "0 6px 6px",
-    background: "blue",
-    textDecoration: "none",
-    color: "white",
-  };
 
 function NavBar (){
     return (
 
-        <div>
-            <React.Fragment>
-            <NavLink 
-            to = "/"
-            exact
-            style = {linkStyles}
-            activeStyle = {{ background:"darkblue"}}>
-            Home
-            </NavLink>
-
-            <NavLink 
-            to = "/About"
-            style = {linkStyles}
-            activeStyle = {{ background:"darkblue"}}>
-                About
-            </NavLink>
-            <NavLink to = "/Players"
-            style = {linkStyles}
-            activeStyle = {{ background:"darkblue"}}>
-                Players
-            </NavLink>
-            </React.Fragment>   
-         </div>)
+        <nav className = "nav">
+            <a href = '/' className = "site-title">Badminton</a>
+            <ul className = "list">
+                <li>
+                    <a href = "/Players" className = "tags" id = "players">Players</a>
+                </li>
+                <li>
+                    <a href = "/about"  className = "tags" id = "about">About</a>
+                </li>
+            </ul>
+          
+         </nav>
+         )
 }
 
 export default NavBar

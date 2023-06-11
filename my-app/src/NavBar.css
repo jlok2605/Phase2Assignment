@@ -1,0 +1,56 @@
+*{
+    box-sizing: border-box;
+}
+
+
+body {
+    margin: 0;
+}
+
+.site-title{
+    font-size: 2rem;
+}
+li {
+    display: inline-table;
+    padding: 1rem;
+}
+.nav {
+    background-color: rgb(33, 33, 33);
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2rem;
+    padding: 0 1rem;
+    
+}
+
+.nav ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    display: flex;
+    gap: 1rem
+    
+}
+
+
+
+.nav a {
+    color: inherit;
+    text-decoration: none;
+}
+
+#players:hover {
+    background-color: #777;
+    
+
+    }
+
+    #about:hover {
+        background-color: #777;
+    
+    }
+    
+    
+
