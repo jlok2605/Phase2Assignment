@@ -1,9 +1,13 @@
 import React from "react";
+import "./Players.css"
+
+
 
 function Players (){
     return (
-    <div>        
-        <div id = "1" class = "pic" >
+    <div> 
+        <p>Testing</p>
+        <div id = "VA" class = "pic" >
             <img src ={"/images/VA.jpg"}  alt = "Viktor Axelsen"></img>
         </div>
 
@@ -42,6 +46,7 @@ function Players (){
         <div id = "10" alt = 'LZJ' class = "pic">
             <img src = {"/images/LZJ.jpg"} alt = "Zii Jia Lee"></img>
         </div>
+
 
 </div>
     )
