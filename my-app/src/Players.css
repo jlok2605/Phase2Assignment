@@ -1,3 +1,26 @@
-p {
-    font-weight: bolder;
+*{
+    box-sizing: border-box;
+}
+
+
+
+img {
+height: 20rem; ;
+width: 20rem;
+display: flex;
+border-radius: 2%;
+
+}
+img:hover {
+    transform: scale(1.2);
+    
+}
+
+.top5 {
+    float:left;
+    display: flex;
+}
+.lower5 {
+    float: left;
+    display: flex;
 }
