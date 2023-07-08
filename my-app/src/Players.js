@@ -20,7 +20,7 @@ function Players() {
     
     return (
         <div className = "Players">
-            {players.map()}
+            {players.map(play => <PlayerInfo name={players.name}/>)}
         </div>)
         
     // <div id = 'all'> 
