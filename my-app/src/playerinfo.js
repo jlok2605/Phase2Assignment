@@ -1,12 +1,20 @@
+import React, { useState, useEffect } from 'react';
 
+function PlayerInfo(props) {
+  const player = props.player
 
-
-function Playerinfo (){
-    return (
-        fetch("http://localhost:3001/Players")
-        .then (response => {return response.json()})
-        .then (response => {return response}))
+  
+  return (
+    <div>
+      <ul>
+        <li>{player.rank}</li>
+        <li>{player.name}</li>
+        <li>{player.tournaments}</li>
+        <li>{player.points}</li>
+        <li>{player.record}</li>
+        
+      </ul>
+    </div> 
+  )
 }
-
-
-export default Playerinfo;
+export default PlayerInfo;
