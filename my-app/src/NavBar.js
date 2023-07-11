@@ -3,11 +3,10 @@ import "./NavBar.css"
 
 
 
-function NavBar (){
+function NavBar () {
     return (
-
-<<<<<<< HEAD
-        <nav className = "nav">
+        <div>
+        <nav>
             <a href = '/' className = "site-title">Badminton</a>
             <ul className = "list">
                 <li>
@@ -15,7 +14,10 @@ function NavBar (){
                 </li>
                 <li>
                     <a href = "/about"  className = "tags" id = "about">About</a>
-=======
+                </li>
+            </ul>
+        </nav>
+        
         <nav class = "nav">
             <a href = '/' class = "site-title">Badminton</a>
             <ul class = "list">
@@ -25,12 +27,13 @@ function NavBar (){
                     <a href = "/about"  class = "tags" id = "about">About</a>
                 </li>
 
->>>>>>> eaaebb02be456dacafa35a3afa7cb1eedc5c05b0
                 </li>
             </ul>
-          
-         </nav>
-         )
+
+        </nav>
+        </div>
+        )
+
 }
 
-export default NavBar
+export default NavBar;

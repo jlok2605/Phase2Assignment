@@ -11,7 +11,7 @@ import "./NavBar.css"
 function App() {
   return (
     <div>
-      <NavBar />
+      <Home/>
       <div>
 
 
