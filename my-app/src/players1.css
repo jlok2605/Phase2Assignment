@@ -6,6 +6,7 @@
     float: left;
     display: flex;
 }
+<<<<<<< HEAD
 .text {
     padding: 0;
     border: 0;
@@ -19,6 +20,15 @@ img {
     border-radius: 1%;
     border: 0;
     padding: 0;
+=======
+
+img {
+height: 20rem; ;
+width: 21.5rem;
+display: flex;
+border-radius: 1%;
+border: 0;
+>>>>>>> eaaebb02be456dacafa35a3afa7cb1eedc5c05b0
 
 }
 img:hover {
@@ -28,10 +38,16 @@ img:hover {
 
 
 .pic .text {
+<<<<<<< HEAD
     position:static;
     text-align: center;
     visibility: hidden;
     vertical-align:top;
+=======
+    position: relative;
+    text-align: center;
+    visibility: hidden;
+>>>>>>> eaaebb02be456dacafa35a3afa7cb1eedc5c05b0
 }
 
 .pic:hover .text {
