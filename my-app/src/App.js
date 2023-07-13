@@ -11,18 +11,19 @@ import "./NavBar.css"
 function App() {
   return (
     <div>
-      <Home/>
+      <NavBar/>
       <div>
+  
 
 
         <BrowserRouter>
           <Routes>
-            <Route path="/About" element={<About />} />
+            <Route path="/About" element={<About/>} />
 
-            <Route path="/Players" element={<Players />} />
+            <Route path="/Players" element={<Players/>} />
 
 
-            <Route exact path="/" element={<Home />} />
+            <Route exact path="/" element={<Home/>} />
 
           </Routes>
         </BrowserRouter>
@@ -30,16 +31,16 @@ function App() {
       </div>
     </div>
 
-  )
+  
+
+
+
+  )}
 
 
 
 
 
 
-
-
-
-}
 
 export default App;
