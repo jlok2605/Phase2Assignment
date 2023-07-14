@@ -5,67 +5,80 @@
       "name": "Viktor Axelsen",
       "points": 103005,
       "tournaments": 12,
-      "record": "489W 146L"
+      "record": "489W 146L",
+      "picture":"/images/VA.jpg"
     },
     {
       "rank": 2,
       "name": "Anthony Ginting",
+      "points":89811,
       "tournaments": 16,
-      "record": "253W 142L"
+      "record": "253W 142L",
+      "picture":"/images/2AG.jpg"
     },
     {
       "rank": 3,
       "name": "Kodai Naraoka",
       "points": 74165,
       "tournaments": 19,
-      "record": "163W 67L"
+      "record": "163W 67L",
+      "picture":"/images/3KN.jpg"
     },
     {
       "rank": 4,
       "name": "Kean Yew Loh",
+      "points": 73025,
       "tournaments": 19,
-      "record": "193W 102L"
+      "record": "193W 102L",
+      "picture":"/images/4LKY.jpg"
     },
     {
       "rank": 5,
       "name": "Kunlavut Vitidsarn",
+      "points":70125,
       "tournaments": 14,
-      "record": "334W 114L"
+      "record": "334W 114L",
+      "picture":"/images/5KV.jpg"
     },
     {
       "rank": 6,
       "name": "Jonatan Christie",
       "points": 69121,
       "tournaments": 15,
-      "record": "275W 138L"
+      "record": "275W 138L",
+      "picture":"/images/6JC.jpg"
     },
     {
       "rank": 7,
       "name": "Tien Chen Chou",
       "points": 69027,
       "tournaments": 19,
-      "record": "466W 255L"
+      "record": "466W 255L",
+      "picture":"/images/7TCC.jpg"
     },
     {
       "rank": 8,
       "name": "H.S. Prannoy",
       "points": 69009,
       "tournaments": 17,
-      "record": "252W 169L"
+      "record": "252W 169L",
+      "picture":"/images/8HSP.jpg"
     },
     {
       "rank": 9,
       "name": "Yu Qi Shi",
       "points":68824,
       "tournaments": 15,
-      "record": "245W 90L"
+      "record": "245W 90L",
+      "picture":"/images/9SYQ.jpg"
     },
     {
       "rank": 10,
       "name": "Zii Jia Lee",
       "points": 59876,
       "tournaments": 17,
-      "record": "237W 107L"
+      "record": "237W 107L",
+      "picture":"/images/LZJ.jpg"
     }
   ]
 }

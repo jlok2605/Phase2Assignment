@@ -12,18 +12,26 @@ img {
     border-radius: 1%;
     border: 0;
     padding: 0;
+    opacity: 1;
 
 
-
-
-.pic .text {
-    position:static;
-    text-align: center;
-    visibility: hidden;
-    vertical-align:top;
-
-    position: relative;
-    text-align: center;
-    visibility: hidden;
 }
+
+
+
+img:hover{
+    opacity: 0.5;
+}
+
+.container.stats {
+    opacity: 1;
+    display: contents;
+    color: white;
+    position: absolute    
+}
+
+.stats {
+    
+    transform: translate(20%,-150%);
+    color:white
 }
