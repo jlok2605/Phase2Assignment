@@ -6,32 +6,39 @@
 
 
 img {
-    height: 20rem; ;
-    width: 21rem;
+    height: 23.5rem; ;
+    width: 23.4rem;
     display: flex;
     border-radius: 1%;
     border: 0;
     padding: 0;
     opacity: 1;
-
-
+    margin: 0;
 }
 
 
+h3{
+    display:flex
+}
 
 img:hover{
     opacity: 0.5;
+    background-color: grey;
 }
-
-.container.stats {
-    opacity: 1;
-    display: contents;
-    color: white;
-    position: absolute    
-}
-
 .stats {
-    
-    transform: translate(20%,-150%);
-    color:white
+    visibility: hidden;
+    transform: translate(25%,-150%);
+    color:white;
+    border: 0;
+    padding: 0;
+    opacity: 1;
+    margin: 0;
 }
+
+
+
+
+.container:hover .stats {
+    visibility: visible;
+}
+

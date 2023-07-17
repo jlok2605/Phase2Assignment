@@ -41,21 +41,11 @@ li {
     text-decoration: none;
 }
 
-#players:hover {
+a:hover {
     background-color: #777;
  
 
-    font-size: large;
-
     }
 
-    #about:hover {
-        background-color: #777;
 
-    
-
-        font-size: large;
-    }
-    
-    
 
