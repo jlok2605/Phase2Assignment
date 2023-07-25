@@ -4,18 +4,33 @@
 }
 
 
-
+.container{
+    border: 0;
+    padding: 0;
+    margin: 0;
+    display: inline-block;
+    overflow: hidden; 
+    height: 23.5rem; ;
+    width: 23.4rem;
+    
+}
 img {
     height: 23.5rem; ;
     width: 23.4rem;
-    display: flex;
+    display: block;
     border-radius: 1%;
     border: 0;
     padding: 0;
     opacity: 1;
     margin: 0;
+    
 }
 
+h1 {
+    text-align: center;
+    font-size: 300%;
+    
+}
 
 h3{
     display:flex
@@ -27,12 +42,11 @@ img:hover{
 }
 .stats {
     visibility: hidden;
-    transform: translate(25%,-150%);
-    color:white;
     border: 0;
     padding: 0;
     opacity: 1;
     margin: 0;
+    transform:translate(25%,-150%)
 }
 
 

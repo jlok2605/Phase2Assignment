@@ -18,9 +18,11 @@ useEffect(()=>{
 
 
     return(
-
+        <div>
+        <h1>Top 10 Men's single players</h1>
         <div id="players">
             {players.map(player=><PlayerInfo player={player}/>)}
+        </div>
         </div>
         
         )

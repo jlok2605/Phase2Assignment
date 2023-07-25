@@ -1,0 +1,28 @@
+.writing {
+   margin-left: 1rem; 
+}
+
+.badminton {
+   width: 30%;
+   height: 30%; 
+   margin-left: 1rem;
+   float:left;
+}
+
+.badminton:hover {
+    opacity: 100%;
+}
+
+.female {
+    width: 15rem;
+    float: right;
+    display: inline;
+    margin-right: 1rem;
+    transform: translate(0,-45%);
+    
+
+}
+
+.female:hover{
+    opacity: 100%;
+}
