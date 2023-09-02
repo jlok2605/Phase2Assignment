@@ -12,7 +12,8 @@ function PlayerInfo(props) {
         <h3 key="rank">Rank: {player.rank}</h3>
         <h3 key="points">Points: {player.points}</h3>
         <h3 key="tournaments">Tournaments: {player.tournaments}</h3>
-        <h3 key="records">Records:{player.record}</h3>
+        <h3 key="wins">Wins:{player.wins}</h3>
+        <h3 key="losses">Losses:{player.losses}</h3>
       </div>
   </div>
 

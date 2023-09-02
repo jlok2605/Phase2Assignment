@@ -7,6 +7,7 @@
    height: 30%; 
    margin-left: 1rem;
    float:left;
+   border: 100px;
 }
 
 .badminton:hover {
