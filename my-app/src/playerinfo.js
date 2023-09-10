@@ -6,7 +6,7 @@ function PlayerInfo(props) {
   
   return (
   <div className='container'>
-    <img src ={player.picture}  alt = {player.name}></img>
+    <img src ={player.picture}  alt = {player.name} key= {player.rank}></img>
       <div className='stats'>
         <h3 key="name">Name: {player.name}</h3>
         <h3 key="rank">Rank: {player.rank}</h3>

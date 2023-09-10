@@ -5,7 +5,8 @@
       "name": "Viktor Axelsen",
       "points": 103005,
       "tournaments": 12,
-      "record": "489W 146L",
+      "wins": "489",
+      "losses": "146",
       "picture":"/images/VA.jpg"
     },
     {
@@ -13,7 +14,8 @@
       "name": "Anthony Ginting",
       "points":89811,
       "tournaments": 16,
-      "record": "253W 142L",
+      "wins": "253",
+      "losses": "142",
       "picture":"/images/2AG.jpg"
     },
     {
@@ -21,7 +23,8 @@
       "name": "Kodai Naraoka",
       "points": 74165,
       "tournaments": 19,
-      "record": "163W 67L",
+      "wins": "163",
+      "losses": "67",
       "picture":"/images/3KN.jpg"
     },
     {
@@ -29,7 +32,8 @@
       "name": "Kean Yew Loh",
       "points": 73025,
       "tournaments": 19,
-      "record": "193W 102L",
+      "wins": "193W 102L",
+      "losses": "102",
       "picture":"/images/4LKY.jpg"
     },
     {
@@ -37,7 +41,8 @@
       "name": "Kunlavut Vitidsarn",
       "points":70125,
       "tournaments": 14,
-      "record": "334W 114L",
+      "wins": "334",
+      "losses": "114",
       "picture":"/images/5KV.jpg"
     },
     {
@@ -45,7 +50,8 @@
       "name": "Jonatan Christie",
       "points": 69121,
       "tournaments": 15,
-      "record": "275W 138L",
+      "wins": "275",
+      "losses": "138",
       "picture":"/images/6JC.jpg"
     },
     {
@@ -53,7 +59,8 @@
       "name": "Tien Chen Chou",
       "points": 69027,
       "tournaments": 19,
-      "record": "466W 255L",
+      "wins": "466",
+      "losses": "255",
       "picture":"/images/7TCC.jpg"
     },
     {
@@ -61,7 +68,8 @@
       "name": "H.S. Prannoy",
       "points": 69009,
       "tournaments": 17,
-      "record": "252W 169L",
+      "wins": "252",
+      "losses": "169",
       "picture":"/images/8HSP.jpg"
     },
     {
@@ -69,7 +77,8 @@
       "name": "Yu Qi Shi",
       "points":68824,
       "tournaments": 15,
-      "record": "245W 90L",
+      "wins": "245",
+      "losses": "90",
       "picture":"/images/9SYQ.jpg"
     },
     {
@@ -77,7 +86,8 @@
       "name": "Zii Jia Lee",
       "points": 59876,
       "tournaments": 17,
-      "record": "237W 107L",
+      "wins": "237",
+      "losses": "107",
       "picture":"/images/LZJ.jpg"
     }
   ]
