@@ -1,7 +1,7 @@
 import React, {useState,useEffect} from "react";
 import "./players1.css"
 import PlayerInfo from "./playerinfo.js";
-import NewPlayerForm from "./NewPlayerform";
+import NewPlayerForm from "./NewPlayerForm.js";
 
 
 
