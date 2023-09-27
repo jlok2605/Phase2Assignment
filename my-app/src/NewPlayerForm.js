@@ -22,6 +22,7 @@ function NewPlayerForm (props){
     const submitForm = e => {
         e.preventDefault()
         props.addPlayer(inputValue)
+        setInputValue(initialPlayer)
         fetch("http://localhost:3001/Players", {
             method: "POST",
             headers: {
