@@ -29,7 +29,7 @@ const addPlayer = (player) => {
         <NewPlayerForm addPlayer={addPlayer}/>
         <h1>Top 10 Men's single players</h1>
         <div id="players">
-            {players.map(player=><PlayerInfo player={player}/>)}
+            {players.map((player,index)=><PlayerInfo player={player} key={index}/>)}
         </div>
         </div>
         
